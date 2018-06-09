@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "608732293612",
+    "firebase_url": "https://fir-detectorgithub.firebaseio.com",
+    "project_id": "fir-detectorgithub",
+    "storage_bucket": "fir-detectorgithub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608732293612:android:84df11fea291cd2a",
+        "android_client_info": {
+          "package_name": "com.vijayjaidewan01vivekrai.firebasedetector_github"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608732293612-mh2tb83kjhpi18q1n7a8lt6jfqp0dcem.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vijayjaidewan01vivekrai.firebasedetector_github",
+            "certificate_hash": "45a1e41e2f896f182ba5c93749644f82acc2fa3d"
+          }
+        },
+        {
+          "client_id": "608732293612-4r95514o58ufd04h4nheql7dkpf37dsb.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "608732293612-4r95514o58ufd04h4nheql7dkpf37dsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPWtE5sFcuYlrcVhjwPODR1qKiKD3m80o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608732293612-4r95514o58ufd04h4nheql7dkpf37dsb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
